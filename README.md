@@ -1,5 +1,5 @@
 # Hollywood: Most Profitable Stories PowerBI Dashboard
-!()[]
+![](https://github.com/Ajay96700/Hollywood-Most-Profitable-Movies/blob/main/Dashboard%20Image.png)
 
 ## This dashboard has 3 Tabs and 2 Pages:
 
